@@ -4,7 +4,7 @@ author: "MarceloCS"
 date: "09/03/2020"
 output: pdf_document
 ---
-# Tidy data satidfies three conditions:
+# Tidy data satisfies three conditions:
 1) Each variable forms a column
 2) Each observation forms a row
 3) Each type of observational unit forms a table
